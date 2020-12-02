@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireActivityLogger (2.5.0):
+    - Alamofire (~> 4.7)
+  - ESPullToRefresh (2.9.3)
+  - Kingfisher (5.15.7):
+    - Kingfisher/Core (= 5.15.7)
+  - Kingfisher/Core (5.15.7)
+  - MBProgressHUD (1.2.0)
+  - PocketSVG (2.6.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SkeletonView (1.11.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireActivityLogger
+  - ESPullToRefresh
+  - Kingfisher
+  - MBProgressHUD
+  - PocketSVG (~> 2.6)
+  - RxCocoa (~> 5.1.0)
+  - RxSwift (~> 5.1.0)
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireActivityLogger
+    - ESPullToRefresh
+    - Kingfisher
+    - MBProgressHUD
+    - PocketSVG
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireActivityLogger: 4dbb52cbd9a26590775df5d4d0284fa81f9b9b5b
+  ESPullToRefresh: 0d68daa602b343c81753a1b95e09fd0bfcddfd40
+  Kingfisher: 6e1a13523fcb1c86924ce53affe4ac957e544d59
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  PocketSVG: 7d7086b0ed95311b3632150d4e1b4488fbf279f1
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SkeletonView: cc84ce90a804dd0dd7198dd802833411c8a64eaf
+
+PODFILE CHECKSUM: d77b4b860bcc9d1cb50023438f5fb988ac44b8ed
+
+COCOAPODS: 1.8.4
